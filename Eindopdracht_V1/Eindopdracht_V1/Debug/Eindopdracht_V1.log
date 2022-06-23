@@ -1,0 +1,16 @@
+﻿  Car.cpp
+C:\Users\marcc\Documents\HKU\Blok 4\Kernmodule Game Development - Game Dev++\Eindopdracht\Eindopdracht_V1\Eindopdracht_V1\Car.cpp(70,24): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\marcc\Documents\HKU\Blok 4\Kernmodule Game Development - Game Dev++\Eindopdracht\Eindopdracht_V1\Eindopdracht_V1\Car.cpp(71,27): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\marcc\Documents\HKU\Blok 4\Kernmodule Game Development - Game Dev++\Eindopdracht\Eindopdracht_V1\Eindopdracht_V1\Car.cpp(76,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\marcc\Documents\HKU\Blok 4\Kernmodule Game Development - Game Dev++\Eindopdracht\Eindopdracht_V1\Eindopdracht_V1\Car.cpp(81,32): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\marcc\Documents\HKU\Blok 4\Kernmodule Game Development - Game Dev++\Eindopdracht\Eindopdracht_V1\Eindopdracht_V1\Car.cpp(85,28): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\marcc\Documents\HKU\Blok 4\Kernmodule Game Development - Game Dev++\Eindopdracht\Eindopdracht_V1\Eindopdracht_V1\Car.cpp(89,34): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  GameManager.cpp
+  Main.cpp
+C:\Users\marcc\Documents\HKU\Blok 4\Kernmodule Game Development - Game Dev++\Eindopdracht\Eindopdracht_V1\Eindopdracht_V1\Main.cpp(16,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Player.cpp
+  Rigidbody.cpp
+  Vector2d.cpp
+  WinScreen.cpp
+  Generating Code...
+  Eindopdracht_V1.vcxproj -> C:\Users\marcc\Documents\HKU\Blok 4\Kernmodule Game Development - Game Dev++\Eindopdracht\Eindopdracht_V1\Debug\Eindopdracht_V1.exe

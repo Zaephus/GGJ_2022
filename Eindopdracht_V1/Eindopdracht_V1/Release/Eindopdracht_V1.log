@@ -1,0 +1,22 @@
+﻿  Car.cpp
+C:\Users\marcc\Documents\HKU\Blok 4\Kernmodule Game Development - Game Dev++\Kernmodule_Game_Dev_jr1\Eindopdracht_V1\Eindopdracht_V1\Car.cpp(68,24): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\marcc\Documents\HKU\Blok 4\Kernmodule Game Development - Game Dev++\Kernmodule_Game_Dev_jr1\Eindopdracht_V1\Eindopdracht_V1\Car.cpp(69,27): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\marcc\Documents\HKU\Blok 4\Kernmodule Game Development - Game Dev++\Kernmodule_Game_Dev_jr1\Eindopdracht_V1\Eindopdracht_V1\Car.cpp(74,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\marcc\Documents\HKU\Blok 4\Kernmodule Game Development - Game Dev++\Kernmodule_Game_Dev_jr1\Eindopdracht_V1\Eindopdracht_V1\Car.cpp(79,32): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\marcc\Documents\HKU\Blok 4\Kernmodule Game Development - Game Dev++\Kernmodule_Game_Dev_jr1\Eindopdracht_V1\Eindopdracht_V1\Car.cpp(83,28): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\marcc\Documents\HKU\Blok 4\Kernmodule Game Development - Game Dev++\Kernmodule_Game_Dev_jr1\Eindopdracht_V1\Eindopdracht_V1\Car.cpp(87,34): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  GameManager.cpp
+  LoseScreen.cpp
+  Main.cpp
+C:\Users\marcc\Documents\HKU\Blok 4\Kernmodule Game Development - Game Dev++\Kernmodule_Game_Dev_jr1\Eindopdracht_V1\Eindopdracht_V1\Main.cpp(19,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Player.cpp
+  Rigidbody.cpp
+  StartScreen.cpp
+  Vector2d.cpp
+  WinScreen.cpp
+  Generating code
+  179 of 184 functions (97.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Eindopdracht_V1.vcxproj -> C:\Users\marcc\Documents\HKU\Blok 4\Kernmodule Game Development - Game Dev++\Kernmodule_Game_Dev_jr1\Eindopdracht_V1\Release\Eindopdracht_V1.exe
